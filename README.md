@@ -23,7 +23,7 @@ Key features and benefits of the `UWB Dongle Sniffer Tool` for Makers:
 
 The UWB PHY of the Module compatible with IEEE 802.15.4a/z, and support the FiRa/CCC MAC Specification.
 
-With the `Sniffer-Tool.exe` , you can easily do works like:
+With the `exe\Sniffer-v1.0.0.exe` , you can easily do works like:
 
  - Quick scan of the UWB signals around
  - Easily monitor the UWB channel
