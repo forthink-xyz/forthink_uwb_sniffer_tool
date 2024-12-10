@@ -15,6 +15,7 @@ With the [Sniffer-Tool]() , you can easily do works like:
 
 ![UWB Dongle Device](fig/uwb_dongle.png)
 
+You can get the hardware from [Taobao](https://item.taobao.com/item.htm?ft=t&id=846844890768).
 
 ## 2. Main Features
 
