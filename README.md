@@ -127,6 +127,16 @@ The iPhone Airtag use the FiRa protocol, but it's KEY(Vupper64), Session ID from
 
 
 ## 7. Release log
+
+### (2024.12.23-v1.0.6)
+* Features:
+   * Add page turning function.
+   * Add the UWB-Dongle-Sniffer pkg and SWUP(Software Update Program) tool.
+* Fixed:
+   * Repair some bugs: SP3 frame judgment; CIR mode bug.
+* Known issue:
+   *  Frame loss during listening, meaning that some frames may not be received.
+
 ### (2024.07.17-v1.0.0)
 * Features:
    * None
