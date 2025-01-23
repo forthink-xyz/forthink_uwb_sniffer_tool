@@ -31,12 +31,16 @@ With the `exe\Sniffer-v1.0.0.exe` , you can easily do works like:
  - With the specific Session Parameters, can helps to debug the FiRa/CCC Session process
  - Quick send Testing UWB packets
 
+The Linux Version Reference: [How to Use the Linux Version Software](exe\README.md).
+
 ## 2. Quick Start
 
-### 2.1 Hardware
+### 2.1 Hardware & Software
 
 - UWB Dongle Sniffer Module
-- Windows PC
+- [Windows PC](https://forthink.xyz:5001/sharing/6ZwDY6ZiX)
+- or [Linux PC for x86_64](https://forthink.xyz:5001/sharing/d6c9AS25t)
+- or [Linux for ARM64](https://forthink.xyz:5001/sharing/n6BCptsTX), support Raspeery Pi 5
 
 ### 2.2 Device Connection
 
@@ -127,6 +131,12 @@ The iPhone Airtag use the FiRa protocol, but it's KEY(Vupper64), Session ID from
 
 
 ## 7. Release log
+
+### (2025.1.23-v1.0.6)
+* Features:
+   * Add Linux version Softwares: [Sniffer Linux x86_64](https://forthink.xyz:5001/sharing/d6c9AS25t) and [Sniffer Linux ARM64](https://forthink.xyz:5001/sharing/n6BCptsTX)
+* Fixed:
+   * None
 
 ### (2024.12.23-v1.0.6)
 * Features:
