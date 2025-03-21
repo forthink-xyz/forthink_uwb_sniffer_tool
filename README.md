@@ -38,8 +38,8 @@ The Linux Version Reference: [How to Use the Linux Version Software](exe\README.
 ### 2.1 Hardware & Software
 
 - UWB Dongle Sniffer Module
-- [Windows PC](https://forthink.xyz:5001/sharing/6ZwDY6ZiX)
-- or [Linux PC for x86_64](https://forthink.xyz:5001/sharing/d6c9AS25t)
+- [Windows PC](https://forthink.xyz:5001/sharing/RoWWv9mtb)
+- or [Linux PC for x86_64](https://forthink.xyz:5001/sharing/Nt2hHOaVO)
 - or [Linux for ARM64](https://forthink.xyz:5001/sharing/n6BCptsTX), support Raspeery Pi 5
 
 ### 2.2 Device Connection
